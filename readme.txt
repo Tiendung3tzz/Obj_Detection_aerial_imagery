@@ -1,3 +1,4 @@
+
 Để giảm kích thước, em đã xóa file detectron2 do đó frcnn cần cài lại detectron2 để có thể chạy được
 python -m pip install pyyaml
 git clone 'https://github.com/facebookresearch/detectron2'
