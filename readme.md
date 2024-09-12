@@ -7,11 +7,11 @@ bộ data được thu thập từ những video drone trên chiến trường.
 # kết quả thực nghiệm.
 ![image](https://github.com/user-attachments/assets/3380a4fd-b934-4541-ae52-45f1e4e923d1).
 
-----------------------.
-file train mode với GPU:.
--- trainFRCNN.ipynp : train model với Faster RCNN.
--- trainYOLO.ipynp : train model với YOLOv8m.
-file test local:.
--- frcnn.py : chạy test với model train lại với Faster RCNN.
--- yolov8m.py : chạy test với yolo.
--- streamlit_app.py : chạy test yolo với giao diện streamlit.
+---------------------- . 
+# file train mode với GPU:.
+- trainFRCNN.ipynp : train model với Faster RCNN.
+- trainYOLO.ipynp : train model với YOLOv8m.
+# file test local:.
+- frcnn.py : chạy test với model train lại với Faster RCNN.
+- yolov8m.py : chạy test với yolo.
+- streamlit_app.py : chạy test yolo với giao diện streamlit.
